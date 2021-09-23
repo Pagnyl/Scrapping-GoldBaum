@@ -1,7 +1,6 @@
 # Scrapping-GoldBaum
 Software made for an intership's test for a company call GoldBaum
 
-AIM : 
 The aim was get several information of two ETF (Exchange-traded fund) : Invesco and Xtracers. To get these information I choose to use scrapping.
 To made this software, I was limited to finished in less than one week (without any knowledge of scrapping)
 
