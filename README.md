@@ -1,13 +1,15 @@
 # Scrapping-GoldBaum
 Software made for an intership's test for a company call GoldBaum
 
+AIM : 
+The aim was get several information of two ETF (Exchange-traded fund) : Invesco and Xtracers. To get these information I choose to use scrapping.
+To made this software, I was limited to finished in less than one week (without any knowledge of scrapping)
 
 HOW TO RUN :
 
 	1- To run the program called 'Data_ETF.py' you must have Chrome 
 
-	2- Then, download a ChromeDriver at this address : 'https://chromedriver.chromium.org/' 
-  which correspond to your Chrome versions.
+	2- Then, download a ChromeDriver at this address : 'https://chromedriver.chromium.org/' which correspond to your Chrome versions.
 
 	3- Put the .exe at the root of your Python IDE
 
@@ -29,3 +31,6 @@ HOW TO IMPROVE :
  - Find solution to have date on the X-axis for Invesco 
  - Use reactJS instead of tkinter to show value 
  - Use a library to run the script everyday, to get data automatically.
+
+
+Project made in 2020 - By Louis P
